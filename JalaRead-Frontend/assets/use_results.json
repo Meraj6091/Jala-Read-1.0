@@ -1,0 +1,52 @@
+{
+    "user": {
+        "user_id": "6e4bd8a2-a1a5-11eb-8fd3-acde48001122",
+        "user_name": "thimod_99",
+        "userFName": "thimod12",
+        "userLName": "prabasha"
+    },
+    "results": [
+        {
+            "location": "Matara",
+            "date": 20,
+            "month": 4,
+            "year": 2021,
+            "predicted_water_type": "Unsuitable",
+            "value_params": {
+                "temp": 32,
+                "conduct": 250,
+                "turbidity": 23,
+                "ph": 7.5
+            },
+            "wqi_index": 2068
+        },
+        {
+            "location": "Matara",
+            "date": 20,
+            "month": 4,
+            "year": 2021,
+            "predicted_water_type": "Normal",
+            "value_params": {
+                "temp": 32,
+                "conduct": 250,
+                "turbidity": 23,
+                "ph": 7.5
+            },
+            "wqi_index": 86
+        },
+        {
+            "location": "Matara",
+            "date": 20,
+            "month": 4,
+            "year": 2021,
+            "predicted_water_type": "Normal",
+            "value_params": {
+                "temp": 32,
+                "conduct": 250,
+                "turbidity": 23,
+                "ph": 7.5
+            },
+            "wqi_index": 76
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id":"001",
+    "userId":234,
+    "userFName":"Nabeel",
+    "userLName":"Shanaz",
+    "location": "LK-MtLavinia",
+    "date": 13,
+    "month": 5,
+    "year": 2021,
+    "predicted_water_type": "Excellent",
+    "value_params": {
+        "conduct": 40,
+        "ph": 11,
+        "temp": 32,
+        "turbidity": 45
+    },
+    "wqi_index": 101
+}

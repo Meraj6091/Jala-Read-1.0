@@ -1,0 +1,30 @@
+{/* 
+        <View style = {styles.PhTempContainer}>
+          <TouchableHighlight>
+              <Text style = {styles.PhButton}>
+              <Text style={styles.Measurement}>pH</Text><br/>
+                {data.value_params.ph}
+              </Text>
+          </TouchableHighlight>
+          <TouchableHighlight>
+              <Text style = {styles.TempButton}>
+              <Text style={styles.Measurement}>Temp</Text><br/>
+                {data.value_params.temp}°C
+              </Text>
+          </TouchableHighlight>
+        </View>
+  
+        <View style = {styles.TurbidityCndctContainer}>
+          <TouchableHighlight>
+              <Text style = {styles.TurbidityButton}>
+              <Text style = {styles.Measurement}>Turbidity</Text><br/>
+                {data.value_params.turbidity} Ntu
+              </Text>
+          </TouchableHighlight>
+          <TouchableHighlight>
+              <Text style = {styles.CondctButton}>
+              <Text style={styles.Measurement}>Conductivity</Text><br/> 
+                {data.value_params.conduct} (S/m)
+              </Text>
+          </TouchableHighlight>
+        </View> */}
